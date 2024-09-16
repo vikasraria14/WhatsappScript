@@ -1,0 +1,20 @@
+{
+  "name": "whatsapp-bulk-messages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "mongoose": "^8.5.0",
+    "puppeteer": "^15.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "read-excel-file": "^5.4.2",
+    "wbm": "^1.1.16",
+    "whatsapp-web.js": "^1.24.0"
+  }
+}
